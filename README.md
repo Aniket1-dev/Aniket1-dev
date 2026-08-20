@@ -90,6 +90,16 @@ Developer-focused workflow for organizing and syncing coding practice and proble
 
 ---
 
+## 🎮 Play something
+
+I added a small **Lights Out** game with the same HomeSync visual language.
+
+**[▶ Open Light Up the Room](https://aniket1-dev.github.io/Aniket1-dev/game/)** · [View source](./game/index.html)
+
+> Turn on every light. Clicking a light toggles it and its neighbours. Try to solve it in the fewest moves.
+
+---
+
 ## 📊 GitHub snapshot
 
 <div align="center">
